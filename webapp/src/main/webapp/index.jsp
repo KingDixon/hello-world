@@ -1,6 +1,6 @@
-<h1> Welcome Twelve Tribes </h1>
+<h1> Welcome King Dixon </h1>
 <h2> Setup and deploy using jenkins pipeline to AWS EC2 </h2>
-<h3> By Chukwuebuka Ben Israel </h3>
+<h3> By Kevin Dixon </h3>
 
 <h3> this is a test </h3>
 
@@ -10,7 +10,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Kingdom Registration Form</title>
+<title>King Dixon Registration Form</title>
 </head>
 <body>
 <h1>Guru Register Form</h1>
